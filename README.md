@@ -48,3 +48,12 @@ I love building projects that combine real-world problems with technology.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushDewan28&layout=compact&theme=tokyonight)
 
 
+## 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+
+

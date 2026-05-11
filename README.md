@@ -38,3 +38,13 @@ Personal developer portfolio built with React.
 
 ## ⚡ Fun Fact
 I love building projects that combine real-world problems with technology.
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushDewan28&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushDewan28&layout=compact&theme=tokyonight)
+
+
